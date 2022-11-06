@@ -9,4 +9,4 @@ O objetivo é criar o layout conforme o figma encaminhado (https://www.figma.com
 
 O código original da parte 01 foi refatorado afim de satisfazer as necessidades de responsividade do layout. Foram introduzidos @media queries em dois pontos de quebra, ajustando o layout em 3 diferentes organizações: celular, tablet e desktop.
 
-Foram corrigidos problemas de responsividade para a configuração inicial (celular) para casos em que a largura de tela é muito inferior ao modelo padrão utilizado no desenvolvimento (~380px). Afim de evitar problemas de elitura da pagina, a largura minima foi definida em 250px.
+Foram corrigidos problemas de responsividade para a configuração inicial (celular) para casos em que a largura de tela é muito inferior ao modelo padrão utilizado no desenvolvimento (~380px). Afim de evitar problemas de leitura da página, a largura minima foi definida em 250px.
